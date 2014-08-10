@@ -1,0 +1,8 @@
+time,src_ip,dst_ip,dst_port,traffic,url
+1407378437,192.168.1.100,8.8.8.8,53,dns,
+1407378462,192.168.1.100,192.168.3.30,80,http,http://website.com/stuff/morestuff
+1407378502,192.168.1.100,192.168.2.20,80,http,http://otherwebsite.com/example
+1407378532,192.168.1.100,4.2.2.2,53,dns,
+1407378572,192.168.1.100,66.211.169.3,443,https,https://paypal.com
+1407378747,192.168.1.100,66.211.169.3,443,https,https://paypal.com/login
+1407378877,192.168.1.100,66.211.169.3,443,https,https://paypal.com/home
