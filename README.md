@@ -22,4 +22,4 @@ By using this code, you can replicate that query inside of a Maltego transform a
 ## Installation & Setup
 This guide assumes that you already have a functioning Maltego installation, complete with an iTDS server. In addition to that, the transform requires the latest version of the [Splunk PHP API](http://dev.splunk.com/view/php-sdk/SP-CAAAEJM).
 
-The Maltego transform code will require a few files from the Splunk API. Splunk.php, settings.php and settings.default.php. You'll need to copy settings.default.php to settings.local.php and edit the file and fill out the $SplunkExamples_connectArguments array with valid Spunk credentials. 
+The Maltego transform code will require a few files from the Splunk API. You'll need Splunk.php, settings.php, settings.default.php and the entire "Splunk/" folder. You'll need to copy settings.default.php to settings.local.php and edit the file and fill out the $SplunkExamples_connectArguments array with valid Spunk credentials. 
