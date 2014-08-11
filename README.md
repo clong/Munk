@@ -44,3 +44,5 @@ $search = 'search index=main src_ip='.$src_ip
   .' | fields '.$result_field;
 ```
 
+## Credits
+The majority of the code in the transform was borrowed from [Paterva](https://www.paterva.com/web6/products/maltego.php) and [Splunk](https://www.splunk.com)
