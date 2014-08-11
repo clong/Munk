@@ -4,7 +4,7 @@ Munk
 Query Splunk Data Using Maltego
 
 ## Abstract
-Maltego is only as useful as the data you provide for it, and sometimes that data lives in places that can be a little bit tricky to access. This transform example provides a way for you to perform a Splunk query and return the search results as entities into Maltego. 
+Maltego is as useful as the data you provide for it, and sometimes that data lives in places that can be a little bit tricky to access. This transform example provides a way for you to perform a Splunk query and return the search results as entities into Maltego. 
 
 ## Example Code
 The example transform I've included works on a made up dataset of network traffic logs inside of a Splunk database. The sample dataset is shown below:
